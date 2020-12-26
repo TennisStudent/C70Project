@@ -39,3 +39,6 @@ body {
 .movie_text span {
     color: coral;
 }
+iframe{
+    width:100%;
+}
